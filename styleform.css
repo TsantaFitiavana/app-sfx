@@ -1,0 +1,21 @@
+body{
+	/*background-color: black;*/
+	background-image : url('fond2.jpg');
+	background-size : 100%; 
+	background-repeat: no-repeat;
+	color : white;
+
+	margin-top : 10%;
+	margin-left : 35%;
+}
+
+label{
+	color : white ; /*couleur*/
+	font-family : 'Arial'; /*police*/
+	font-size : 20px; /*angezany*
+}
+
+h1{
+	color : red;
+	font-family : 'Arial';
+}
